@@ -708,3 +708,9 @@ input[type="radio"]:checked + .custom-radio-btn-box {
   line-height: 1.714;
   font-weight: 500;
 }
+
+
+/*====== Maps ======*/
+.map-height {
+  height: 500px;
+}

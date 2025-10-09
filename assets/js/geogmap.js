@@ -3,7 +3,7 @@
       // The location of India
       const india = { lat: 20.5937, lng: 78.9629 };
       // The map, centered at India
-      const map = new google.maps.Map(document.getElementById("weathermap"), {
+      const map = new google.maps.Map(document.getElementById("gmap"), {
         zoom: 5, // Adjust the zoom level as needed
         center: india,
       });
